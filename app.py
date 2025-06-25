@@ -3,8 +3,8 @@ from selenium.webdriver.common.by import By
 import time
 
 # --- Replace with your dummy credentials ---
-USERNAME = "your_dummy_username"
-PASSWORD = "your_dummy_password"
+USERNAME = "krishramoju"
+PASSWORD = "Krish@123"
 TARGET_USER = "cbitosc"
 
 def login(driver):
